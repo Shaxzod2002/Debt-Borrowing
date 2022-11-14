@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.debt {
+    display: none;
+}
+
+.debt-active {
+    display: flex;
+}
+
+.borrowing {
+    display: none;
+}
+
+.borrowing-active {
+    display: flex;
+}
